@@ -1,13 +1,10 @@
-package main
+package greet
 
 import (
 	"fmt"
 )
 
-func main() {
-	
-}
 
-func hello(){
+func greet(){
 	fmt.Println("Hello")
 }
