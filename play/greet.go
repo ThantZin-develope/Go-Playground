@@ -5,6 +5,6 @@ import (
 )
 
 
-func greet(){
+func Greet(){
 	fmt.Println("Hello")
 }
